@@ -1,0 +1,17 @@
+* {
+    margin:0; 
+    padding:0;
+   
+}
+.my-class {
+    background-color: rgb(8, 254, 172);
+    color:darkgreen;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin: 5px;
+    
+    
+}

@@ -1,0 +1,22 @@
+.my-style {
+    background-color: rgb(3, 255, 255);
+    color:rgb(220, 129, 32);
+}
+.my-class {
+    background-color: coral;
+    color:aquamarine;
+}
+.my-leg {
+    background-color: black;
+    color:antiquewhite;
+}
+
+#my-id {
+    background-color: fuchsia;
+    color:brown;
+}
+
+P {
+    background-color: rgb(234, 12, 56);
+    color:rgb(10, 220, 80)
+}

@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.parent {
+    position:relative;
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+}
+
+.child { 
+    position: absolute;
+    background-color: darkred;
+    width: 100px;
+    height: 100px;
+    margin:2px;
+    bottom: 0;
+    left: 0;
+    
+}
